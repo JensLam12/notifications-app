@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "749408534212",
+    "project_id": "flutter-notifications-ap-df907",
+    "storage_bucket": "flutter-notifications-ap-df907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749408534212:android:834df4b4b1133e7ab75391",
+        "android_client_info": {
+          "package_name": "com.jelam.notifications_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749408534212-2jt0kvrnds9vcjv90t2if2eip9ph9vcm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jelam.notifications_app",
+            "certificate_hash": "baa5e39f22c44ca0c524a7c8804fa798837c9847"
+          }
+        },
+        {
+          "client_id": "749408534212-lopno4r6rsla8k4stlv7f7mpbn0a51l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiEf5WkSy7sPGTymgjDUGkzjCRHUpqYYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749408534212-lopno4r6rsla8k4stlv7f7mpbn0a51l0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
